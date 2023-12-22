@@ -1,7 +1,7 @@
 
 # Football challenge
 
-![App](https://github.com/BrunoCantero/footballChallenge/assets/ios_screenshot.png)
+![App](https://github.com/BrunoCantero/footballChallenge/blob/main/assets/ios_screenshot.png)
 
 ## App Instructions
 #### Setup and Installation
